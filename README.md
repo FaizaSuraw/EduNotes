@@ -58,4 +58,3 @@ Deploy and gather student feedback
 6. David Calvin
 7. Khoi Wangoi
 8. Kennedy Ngovi
-9. 
